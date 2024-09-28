@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/pkg/errors"
-	"github.com/plantoncloud/planton/apis/zzgo/cloud/planton/apis/code2cloud/v1/snowflake/snowflakedatabase"
-	_ "github.com/plantoncloud/planton/apis/zzgo/cloud/planton/apis/iac/v1/stackjob"
+	"github.com/plantoncloud/project-planton/apis/zzgo/cloud/planton/apis/code2cloud/v1/snowflake/snowflakedatabase"
+	_ "github.com/plantoncloud/project-planton/apis/zzgo/cloud/planton/apis/iac/v1/stackjob"
 	"github.com/plantoncloud/pulumi-module-golang-commons/pkg/stackinput"
 	"github.com/plantoncloud/snowflake-database-pulumi-module/pkg"
 	"github.com/pulumi/pulumi/sdk/v3/go/pulumi"
