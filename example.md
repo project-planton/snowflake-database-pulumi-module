@@ -64,7 +64,7 @@ spec:
 
 ### Example with Environment Secrets
 
-This example integrates environment secrets managed by Planton Cloud's [Snowflake Secrets Manager](https://buf.build/plantoncloud/planton-cloud-apis/docs/main:cloud.planton.apis.code2cloud.v1.snowflake.snowflakedatabase).
+This example integrates environment secrets managed by Planton Cloud's [Snowflake Secrets Manager](https://buf.build/project-planton/apis/docs/main:cloud.planton.apis.code2cloud.v1.snowflake.snowflakedatabase).
 
 ```yaml
 apiVersion: code2cloud.planton.cloud/v1
@@ -192,4 +192,4 @@ Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) when interacting with
 
 - [Pulumi Documentation](https://www.pulumi.com/docs/)
 - [Snowflake Documentation](https://docs.snowflake.com/)
-- [Planton Cloud APIs](https://buf.build/plantoncloud/planton-cloud-apis/docs)
+- [Planton Cloud APIs](https://buf.build/project-planton/apis/docs)
