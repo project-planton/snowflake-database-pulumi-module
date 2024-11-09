@@ -1,7 +1,7 @@
 package pkg
 
 import (
-	snowflakedatabasev1 "buf.build/gen/go/project-planton/apis/protocolbuffers/go/project/planton/provider/snowflake/snowflakedatabase/v1"
+	snowflakedatabasev1 "github.com/project-planton/project-planton/apis/go/project/planton/provider/snowflake/snowflakedatabase/v1"
 	"github.com/pulumi/pulumi/sdk/v3/go/pulumi"
 )
 
